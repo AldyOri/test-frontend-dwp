@@ -1,0 +1,517 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "akun testing",
+      "email": "testing@gmail.com",
+      "password": "iniakuntesting"
+    },
+    {
+      "id": "2",
+      "name": "akun testing 2",
+      "email": "testing2@gmail.com",
+      "password": "iniakuntesting2"
+    },
+    {
+      "id": "3",
+      "name": "jason",
+      "email": "testing2@gmail.com",
+      "password": "iniakuntesting2"
+    }
+  ],
+  "providers": [
+    {
+      "id": "1",
+      "name": "Telkomsel"
+    },
+    {
+      "id": "2",
+      "name": "Indosat"
+    },
+    {
+      "id": "3",
+      "name": "XL"
+    },
+    {
+      "id": "4",
+      "name": "Smartfren"
+    },
+    {
+      "id": "5",
+      "name": "Axis"
+    },
+    {
+      "id": "6",
+      "name": "Tri"
+    }
+  ],
+  "activePeriods": [
+    {
+      "id": "1",
+      "label": "1 Hari"
+    },
+    {
+      "id": "2",
+      "label": "3 Hari"
+    },
+    {
+      "id": "3",
+      "label": "5 Hari"
+    },
+    {
+      "id": "4",
+      "label": "7 Hari"
+    },
+    {
+      "id": "5",
+      "label": "14 Hari"
+    },
+    {
+      "id": "6",
+      "label": "30 Hari"
+    },
+    {
+      "id": "7",
+      "label": "45 Hari"
+    },
+    {
+      "id": "8",
+      "label": "60 Hari"
+    },
+    {
+      "id": "9",
+      "label": "90 Hari"
+    },
+    {
+      "id": "10",
+      "label": "120 Hari"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Telkomsel OMG! 20GB",
+      "description": "Cocok untuk streaming dan sosmed",
+      "img": "https://placehold.co/150",
+      "price": 75000,
+      "provider": "Telkomsel",
+      "quota": "20GB",
+      "activePeriod": "30 Hari"
+    },
+    {
+      "id": "2",
+      "name": "Indosat Freedom Combo 10GB",
+      "description": "Kuota utama + kuota malam",
+      "img": "https://placehold.co/150",
+      "price": 55000,
+      "provider": "Indosat",
+      "quota": "10GB",
+      "activePeriod": "30 Hari"
+    },
+    {
+      "id": "3",
+      "name": "XL Xtra Combo 25GB",
+      "description": "Termasuk YouTube tanpa kuota",
+      "img": "https://placehold.co/150",
+      "price": 85000,
+      "provider": "XL",
+      "quota": "25GB",
+      "activePeriod": "30 Hari"
+    },
+    {
+      "id": "4",
+      "name": "Smartfren Unlimited Harian",
+      "description": "FUP 1.5GB/hari, cocok untuk browsing dan sosmed",
+      "img": "https://placehold.co/150",
+      "price": 25000,
+      "provider": "Smartfren",
+      "quota": "Unlimited",
+      "activePeriod": "7 Hari"
+    },
+    {
+      "id": "5",
+      "name": "Axis Bronet 8GB",
+      "description": "Paket murah untuk kebutuhan ringan harian",
+      "img": "https://placehold.co/150",
+      "price": 30000,
+      "provider": "Axis",
+      "quota": "8GB",
+      "activePeriod": "7 Hari"
+    },
+    {
+      "id": "6",
+      "name": "Telkomsel Combo Sakti 40GB",
+      "description": "Paket all-in untuk streaming, chat, dan sosmed",
+      "img": "https://placehold.co/150",
+      "price": 100000,
+      "provider": "Telkomsel",
+      "quota": "40GB",
+      "activePeriod": "30 Hari"
+    },
+    {
+      "id": "7",
+      "name": "Tri Happy Plan 12GB",
+      "description": "Paket data fleksibel dengan kuota utama dan aplikasi",
+      "img": "https://placehold.co/150",
+      "price": 45000,
+      "provider": "Tri",
+      "quota": "12GB",
+      "activePeriod": "30 Hari"
+    },
+    {
+      "id": "8",
+      "name": "Indosat Yellow 1GB",
+      "description": "Paket harian super hemat",
+      "img": "https://placehold.co/150",
+      "price": 5000,
+      "provider": "Indosat",
+      "quota": "1GB",
+      "activePeriod": "1 Hari"
+    },
+    {
+      "id": "9",
+      "name": "Telkomsel MAXstream 15GB",
+      "description": "Bonus streaming MAXstream unlimited",
+      "img": "https://placehold.co/150",
+      "price": 65000,
+      "provider": "Telkomsel",
+      "quota": "15GB",
+      "activePeriod": "30 Hari"
+    },
+    {
+      "id": "10",
+      "name": "XL Hotrod 5GB",
+      "description": "Paket mingguan dengan kecepatan 4G+",
+      "img": "https://placehold.co/150",
+      "price": 35000,
+      "provider": "XL",
+      "quota": "5GB",
+      "activePeriod": "7 Hari"
+    },
+    {
+      "id": "11",
+      "name": "Indosat Freedom U 50GB",
+      "description": "Unlimited sosmed + kuota utama 50GB",
+      "img": "https://placehold.co/150",
+      "price": 125000,
+      "provider": "Indosat",
+      "quota": "50GB",
+      "activePeriod": "30 Hari"
+    },
+    {
+      "id": "12",
+      "name": "Smartfren Giga Unlimited",
+      "description": "FUP 3GB/hari, untuk kebutuhan berat",
+      "img": "https://placehold.co/150",
+      "price": 50000,
+      "provider": "Smartfren",
+      "quota": "Unlimited",
+      "activePeriod": "14 Hari"
+    },
+    {
+      "id": "13",
+      "name": "Axis Owsem 3GB",
+      "description": "Paket 3 hari dengan bonus chat unlimited",
+      "img": "https://placehold.co/150",
+      "price": 15000,
+      "provider": "Axis",
+      "quota": "3GB",
+      "activePeriod": "3 Hari"
+    },
+    {
+      "id": "14",
+      "name": "Tri Always On 30GB",
+      "description": "Kuota besar untuk pemakaian intensif",
+      "img": "https://placehold.co/150",
+      "price": 80000,
+      "provider": "Tri",
+      "quota": "30GB",
+      "activePeriod": "30 Hari"
+    },
+    {
+      "id": "15",
+      "name": "Telkomsel Ketengan 2GB",
+      "description": "Paket harian tanpa ribet",
+      "img": "https://placehold.co/150",
+      "price": 8000,
+      "provider": "Telkomsel",
+      "quota": "2GB",
+      "activePeriod": "1 Hari"
+    },
+    {
+      "id": "16",
+      "name": "XL Xtra Combo Lite 6GB",
+      "description": "Paket hemat untuk kebutuhan ringan",
+      "img": "https://placehold.co/150",
+      "price": 32000,
+      "provider": "XL",
+      "quota": "6GB",
+      "activePeriod": "7 Hari"
+    }
+  ],
+  "cartItems": [
+    {
+      "id": "3",
+      "userId": 2,
+      "userName": "akun testing 2",
+      "userEmail": "testing2@gmail.com",
+      "productId": 5,
+      "productName": "Axis Bronet 8GB",
+      "productDescription": "Paket murah untuk kebutuhan ringan harian",
+      "productImg": "https://placehold.co/150",
+      "productPrice": 30000,
+      "productProvider": "Axis",
+      "productQuota": "8GB",
+      "productActivePeriod": "7 Hari",
+      "isBought": false
+    },
+    {
+      "id": "4",
+      "userId": 2,
+      "userName": "akun testing 2",
+      "userEmail": "testing2@gmail.com",
+      "productId": 7,
+      "productName": "Tri Happy Plan 12GB",
+      "productDescription": "Paket data fleksibel dengan kuota utama dan aplikasi",
+      "productImg": "https://placehold.co/150",
+      "productPrice": 45000,
+      "productProvider": "Tri",
+      "productQuota": "12GB",
+      "productActivePeriod": "30 Hari",
+      "isBought": true
+    },
+    {
+      "id": "_A7xOKc"
+    },
+    {
+      "userId": "1",
+      "userName": "akun testing",
+      "userEmail": "testing@gmail.com",
+      "productId": 2,
+      "productName": "Indosat Freedom Combo 10GB",
+      "productDescription": "Kuota utama + kuota malam",
+      "productImg": "https://placehold.co/200",
+      "productPrice": 38500,
+      "productProvider": "Indosat",
+      "productQuota": "10GB",
+      "productActivePeriod": "30 Hari",
+      "isBought": true,
+      "id": "XB5cgjM"
+    },
+    {
+      "userId": "1",
+      "userName": "akun testing",
+      "userEmail": "testing@gmail.com",
+      "productId": 2,
+      "productName": "Indosat Freedom Combo 10GB",
+      "productDescription": "Kuota utama + kuota malam",
+      "productImg": "https://placehold.co/200",
+      "productPrice": 38500,
+      "productProvider": "Indosat",
+      "productQuota": "10GB",
+      "productActivePeriod": "30 Hari",
+      "isBought": true,
+      "id": "7WLDmtn"
+    },
+    {
+      "userId": "1",
+      "userName": "akun testing",
+      "userEmail": "testing@gmail.com",
+      "productId": 11,
+      "productName": "Indosat Freedom U 50GB",
+      "productDescription": "Unlimited sosmed + kuota utama 50GB",
+      "productImg": "https://placehold.co/150",
+      "productPrice": 93750,
+      "productProvider": "Indosat",
+      "productQuota": "50GB",
+      "productActivePeriod": "30 Hari",
+      "isBought": true,
+      "id": "H1L7gKd"
+    },
+    {
+      "userId": "1",
+      "userName": "akun testing",
+      "userEmail": "testing@gmail.com",
+      "productId": "1",
+      "productName": "Telkomsel OMG! 20GB",
+      "productDescription": "Cocok untuk streaming dan sosmed",
+      "productImg": "https://placehold.co/150",
+      "productPrice": 75000,
+      "productProvider": "Telkomsel",
+      "productQuota": "20GB",
+      "productActivePeriod": "30 Hari",
+      "isBought": true,
+      "id": "P3ZhgCt"
+    },
+    {
+      "userId": "1",
+      "userName": "akun testing",
+      "userEmail": "testing@gmail.com",
+      "productId": "2",
+      "productName": "Indosat Freedom Combo 10GB",
+      "productDescription": "Kuota utama + kuota malam",
+      "productImg": "https://placehold.co/150",
+      "productPrice": 55000,
+      "productProvider": "Indosat",
+      "productQuota": "10GB",
+      "productActivePeriod": "30 Hari",
+      "isBought": true,
+      "id": "hHP4Hr7"
+    },
+    {
+      "userId": "1",
+      "userName": "akun testing",
+      "userEmail": "testing@gmail.com",
+      "productId": 2,
+      "productName": "Indosat Freedom Combo 10GB",
+      "productDescription": "Kuota utama + kuota malam",
+      "productImg": "https://placehold.co/200",
+      "productPrice": 38500,
+      "productProvider": "Indosat",
+      "productQuota": "10GB",
+      "productActivePeriod": "30 Hari",
+      "isBought": true,
+      "id": "jrrEDAP"
+    },
+    {
+      "userId": "1",
+      "userName": "akun testing",
+      "userEmail": "testing@gmail.com",
+      "productId": 2,
+      "productName": "Indosat Freedom Combo 10GB",
+      "productDescription": "Kuota utama + kuota malam",
+      "productImg": "https://placehold.co/200",
+      "productPrice": 38500,
+      "productProvider": "Indosat",
+      "productQuota": "10GB",
+      "productActivePeriod": "30 Hari",
+      "isBought": false,
+      "id": "ncpc4vy"
+    },
+    {
+      "userId": "1",
+      "userName": "akun testing",
+      "userEmail": "testing@gmail.com",
+      "productId": 2,
+      "productName": "Indosat Freedom Combo 10GB",
+      "productDescription": "Kuota utama + kuota malam",
+      "productImg": "https://placehold.co/200",
+      "productPrice": 38500,
+      "productProvider": "Indosat",
+      "productQuota": "10GB",
+      "productActivePeriod": "30 Hari",
+      "isBought": false,
+      "id": "N5Gkl2W"
+    }
+  ],
+  "flashSales": {
+    "id": 1,
+    "endTime": "2025-07-20T15:00:00Z",
+    "items": [
+      {
+        "id": 1,
+        "productId": 2,
+        "productName": "Indosat Freedom Combo 10GB",
+        "productDescription": "Kuota utama + kuota malam",
+        "productImg": "https://placehold.co/200",
+        "originalPrice": 55000,
+        "discountPercentage": 30,
+        "discountedPrice": 38500,
+        "productProvider": "Indosat",
+        "productQuota": "10GB",
+        "productActivePeriod": "30 Hari"
+      },
+      {
+        "id": 2,
+        "productId": 4,
+        "productName": "Smartfren Unlimited Harian",
+        "productDescription": "FUP 1.5GB/hari, cocok untuk browsing dan sosmed",
+        "productImg": "https://placehold.co/150",
+        "originalPrice": 25000,
+        "discountPercentage": 50,
+        "discountedPrice": 12500,
+        "productProvider": "Smartfren",
+        "productQuota": "Unlimited",
+        "productActivePeriod": "7 Hari"
+      },
+      {
+        "id": 3,
+        "productId": 6,
+        "productName": "Telkomsel Combo Sakti 40GB",
+        "productDescription": "Paket all-in untuk streaming, chat, dan sosmed",
+        "productImg": "https://placehold.co/150",
+        "originalPrice": 100000,
+        "discountPercentage": 20,
+        "discountedPrice": 80000,
+        "productProvider": "Telkomsel",
+        "productQuota": "40GB",
+        "productActivePeriod": "30 Hari"
+      },
+      {
+        "id": 4,
+        "productId": 8,
+        "productName": "Indosat Yellow 1GB",
+        "productDescription": "Paket harian super hemat",
+        "productImg": "https://placehold.co/150",
+        "originalPrice": 5000,
+        "discountPercentage": 70,
+        "discountedPrice": 1500,
+        "productProvider": "Indosat",
+        "productQuota": "1GB",
+        "productActivePeriod": "1 Hari"
+      },
+      {
+        "id": 5,
+        "productId": 11,
+        "productName": "Indosat Freedom U 50GB",
+        "productDescription": "Unlimited sosmed + kuota utama 50GB",
+        "productImg": "https://placehold.co/150",
+        "originalPrice": 125000,
+        "discountPercentage": 25,
+        "discountedPrice": 93750,
+        "productProvider": "Indosat",
+        "productQuota": "50GB",
+        "productActivePeriod": "30 Hari"
+      },
+      {
+        "id": 6,
+        "productId": 19,
+        "productName": "Axis Kzl 20GB",
+        "productDescription": "Paket bulanan dengan bonus game",
+        "productImg": "https://placehold.co/150",
+        "originalPrice": 60000,
+        "discountPercentage": 40,
+        "discountedPrice": 36000,
+        "productProvider": "Axis",
+        "productQuota": "20GB",
+        "productActivePeriod": "30 Hari"
+      },
+      {
+        "id": 7,
+        "productId": 9,
+        "productName": "Telkomsel MAXstream 15GB",
+        "productDescription": "Bonus streaming MAXstream unlimited",
+        "productImg": "https://placehold.co/150",
+        "originalPrice": 65000,
+        "discountPercentage": 35,
+        "discountedPrice": 42250,
+        "productProvider": "Telkomsel",
+        "productQuota": "15GB",
+        "productActivePeriod": "30 Hari"
+      },
+      {
+        "id": 8,
+        "productId": 14,
+        "productName": "Tri Always On 30GB",
+        "productDescription": "Kuota besar untuk pemakaian intensif",
+        "productImg": "https://placehold.co/150",
+        "originalPrice": 80000,
+        "discountPercentage": 30,
+        "discountedPrice": 56000,
+        "productProvider": "Tri",
+        "productQuota": "30GB",
+        "productActivePeriod": "30 Hari"
+      }
+    ]
+  }
+}
