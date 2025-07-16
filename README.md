@@ -77,7 +77,7 @@ Berikut adalah laporan hasil pengerjaan tugas frontend internship sesuai studi k
 ### ▶️ Cara Menjalankan Project
 
 ```bash
-$ git clone "github repo link"
-$ cd "repo name"
+$ git clone https://github.com/AldyOri/test-frontend-dwp.git
+$ cd test-frontend-dwp
 $ npm install
 $ npm run dev
